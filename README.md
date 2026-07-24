@@ -1,5 +1,5 @@
 # BeeTho - Nền Tảng Bee Tho (Service Delivery Platform)
-![BeeTho Logo](BeeTho-Logo.png)
+![BeeTho Logo](assets/BeeTho-Logo.png)
 
 BeeTho là một nền tảng kết nối người dùng với các kỹ thuật viên chuyên nghiệp trong nhiều lĩnh vực khác nhau, từ sửa chữa điện dân dụng, điện lạnh đến các dịch vụ bảo trì kỹ thuật khác. Dự án bao gồm ứng dụng di động cho khách hàng và thợ, cùng với hệ thống quản lý backend mạnh mẽ.
 
